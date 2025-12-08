@@ -1,0 +1,14 @@
+<html>
+<head>
+<title>internal java script example</title>
+</head>
+<body>
+<h2>click button below</h2>
+<button onclick="showmessage()">click me</button>
+<script>
+function show image(){
+alert("welcome to java script!");
+}
+</script>
+</body>
+</html>
